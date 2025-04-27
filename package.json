@@ -16,15 +16,9 @@
   "dependencies": {
     "cors": "^2.8.5",
     "dotenv": "^16.5.0",
-    "express": "^5.1.0",
-    "sequelize": "^6.37.1"
+    "express": "^5.1.0"
   },
   "devDependencies": {
-    "nodemon": "^3.1.10",
-    "sequelize-cli": "^6.6.2",
-    "standard": "^17.1.0"
-  },
-  "eslintConfig": {
-    "extends": "standard"
+    "nodemon": "^3.1.10"
   }
 }
